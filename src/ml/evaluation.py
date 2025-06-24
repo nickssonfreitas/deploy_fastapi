@@ -36,7 +36,6 @@ lb_path = load_model(LB_PATH)
 print("Loaded model type:", type(model))
 
 
-
 # DO NOT MODIFY
 cat_features = [
     "workclass",
